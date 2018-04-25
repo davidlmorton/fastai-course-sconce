@@ -1,5 +1,5 @@
 # fastai-course-sconce
-Jupyter Notebooks for the fast.ai deep learning course, recreated using pytorch-sconce.
+Jupyter Notebooks for the fast.ai deep learning course, recreated using [pytorch-sconce](https://github.com/davidlmorton/pytorch-sconce).
 
 ## Google Colab
 
